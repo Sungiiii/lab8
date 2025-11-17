@@ -1,0 +1,9 @@
+{
+  "registration_text": "Страница регистрации",
+  "name_text": "Имя",
+  "mail_text": "Почта",
+  "phone_text": "Номер телефона",
+  "passw_text": "Пароль",
+  "confirm_text": "Подтвердите пароль",
+  "submit_text": "Отправить форму"
+}

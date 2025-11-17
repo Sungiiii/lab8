@@ -1,0 +1,9 @@
+{
+    "registration_text": "Registration page",
+    "name_text": "Name",
+    "mail_text": "Gmail",
+    "phone_text": "Phone number",
+    "passw_text": "Password",
+    "confirm_text": "Confirm Password",
+    "submit_text": "Submit Form"
+}
